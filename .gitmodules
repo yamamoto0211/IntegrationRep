@@ -1,3 +1,6 @@
 [submodule "sampleRep"]
 	path = sampleRep
 	url = https://github.com/yamamoto0211/sampleRep.git
+[submodule "testRep"]
+	path = testRep
+	url = https://github.com/yamamoto0211/testRep.git
